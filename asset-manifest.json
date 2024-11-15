@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramavarjah/TodoReactApp.git/static/css/main.f855e6bc.css",
+    "main.js": "/ramavarjah/TodoReactApp.git/static/js/main.6bc217db.js",
+    "static/js/453.7c6c8075.chunk.js": "/ramavarjah/TodoReactApp.git/static/js/453.7c6c8075.chunk.js",
+    "index.html": "/ramavarjah/TodoReactApp.git/index.html",
+    "main.f855e6bc.css.map": "/ramavarjah/TodoReactApp.git/static/css/main.f855e6bc.css.map",
+    "main.6bc217db.js.map": "/ramavarjah/TodoReactApp.git/static/js/main.6bc217db.js.map",
+    "453.7c6c8075.chunk.js.map": "/ramavarjah/TodoReactApp.git/static/js/453.7c6c8075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6bc217db.js"
+  ]
+}
